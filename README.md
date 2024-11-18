@@ -11,6 +11,7 @@ Your system must include the features listed in [Must have](#must-have). You can
 1. **PDF Upload**:
    - Users can upload PDF files.
    - Support scanned PDFs
+   - **Note**: The PDF files may contain images, tables, and code.
 2. **AI Chat Functionality**:
    - Allow users to ask questions.
    - Differentiate:
