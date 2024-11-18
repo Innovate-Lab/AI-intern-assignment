@@ -16,13 +16,13 @@ Your system must include the features listed in [Must have](#must-have). You can
    - Differentiate:
       - **Document-based questions**: Use content from document to generate answer.
       - **General knowledge questions**: Use an external AI API to provide responses unrelated to the document.
-3. **Demo Using Streamlit or Gradio**:
+3. **Demo Using Streamlit or Gradio** (video or a direct link to the application):
 - Build a simple web-based interface to demonstrate the application.
 - Include PDF upload and chat functionalities in the demo.
 
 ### **Nice to have**
 
-- **Multiple Files (PDFs, doc,...)**: Allow users to upload and interact with multiple file simultaneously.
+- **Multiple Files (PDFs, doc,...)**: Allow users to upload and interact with multiple files simultaneously.
 - **Custom UI**: Create a simple custom UI (HTML/CSS/JS or frontend framework) to demo the application.
 
 ## Technical requirements
@@ -46,6 +46,5 @@ Your system must include the features listed in [Must have](#must-have). You can
 ---
 
 ### **Good luck!**
-
-![](https://res.craft.do/user/full/f2f0dc9c-f980-c538-b4f3-170086acbddc/doc/c75fe73e-0782-4f6b-b4a6-a40014a7dc5f/08fcdb51-33f3-4365-8691-df2c66d680af)
+![Your Code Work](/assets/meme.png)
 
