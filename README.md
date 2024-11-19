@@ -42,7 +42,7 @@ Your system must include the features listed in [Must have](#must-have). You can
       - Setup and installation instructions.
       - How to run the application.
       - How to test the application.
-- Send the GitHub repository link via email to: [email protected]
+- Send the GitHub repository link via the [submission form](https://vbiacademy.typeform.com/intern)
 
 ---
 
